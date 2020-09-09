@@ -29,6 +29,7 @@ Organisation: KIIT School of Computer Engineering
 ## link to the end points:
 * ['/add'](https://board-infinity.herokuapp.com/add)
 * ['/list'](https://board-infinity.herokuapp.com/list)
+The above mentioned end points can be accessed using ['Postman'](https://www.postman.com/)
 
 ## Packages used
 * express
