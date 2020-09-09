@@ -23,7 +23,17 @@ Organisation: KIIT School of Computer Engineering
 * Added the auto delete functionality.
 * Deployed on Heroku.
 
-# Structure for adding Tasks
+## Heroku link
+* [Task-App-Heroku](https://board-infinity.herokuapp.com/)
+
+## Packages used
+* express
+* mongoose
+* body-parser
+* nodemon
+* dotenv
+
+## Structure for adding Tasks
 ```
 {
     "TaskName": "name of the task",
