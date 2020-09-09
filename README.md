@@ -26,6 +26,10 @@ Organisation: KIIT School of Computer Engineering
 ## Heroku link
 * [Task-App-Heroku](https://board-infinity.herokuapp.com/)
 
+## link to the end points:
+* ['/add'](https://board-infinity.herokuapp.com/add)
+* ['/list'](https://board-infinity.herokuapp.com/list)
+
 ## Packages used
 * express
 * mongoose
