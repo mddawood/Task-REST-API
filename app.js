@@ -25,4 +25,8 @@ mongoose.connect(
 );
 
 //listening to server
-app.listen(3000);
+const PORT = process.env.PORT;
+
+app.listen(PORT, process.env.IP, () => {
+    console.log(`Listening to PORT => ${PORT}`);
+  });

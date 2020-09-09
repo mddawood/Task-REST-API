@@ -32,10 +32,8 @@ router.get("/list", async (req, res) => {
         if (t.CreatedAt.getTime() + t.duration * 60000 < time)
         {
           temptasks.splice(index, 1);
-          console.log("happends");
         }
       });
-      console.log(temptasks);
       res.json(temptasks);
     }
     catch (err)
