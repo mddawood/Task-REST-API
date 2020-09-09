@@ -10,6 +10,18 @@ Branch: Computer Science and Communication Engineering
 Organisation: KIIT School of Computer Engineering
 ```
 
+## Day wise approach
+
+### 07-September-2020
+* Learnt how to setup Node and ExpressJs
+* Learnt how to connect with MongoDB Atlas 
+* Learnt how to use Postman for accessing api end points
+
+### 08-September-2020
+* Set up the git repository
+* 
+
+
 # Structure for adding Tasks
 ```
 {
