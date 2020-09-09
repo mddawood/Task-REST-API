@@ -13,14 +13,15 @@ Organisation: KIIT School of Computer Engineering
 ## Day wise approach
 
 ### 07-September-2020
-* Learnt how to setup Node and ExpressJs
-* Learnt how to connect with MongoDB Atlas 
-* Learnt how to use Postman for accessing api end points
+* Learnt how to setup Node and ExpressJs.
+* Learnt how to connect with MongoDB Atlas.
+* Learnt how to use Postman for accessing api end points.
 
 ### 08-September-2020
-* Set up the git repository
-* 
-
+* Set up the git repository.
+* Created both the end points viz. '/add' and '/list'.
+* Added the auto delete functionality.
+* Deployed on Heroku.
 
 # Structure for adding Tasks
 ```
