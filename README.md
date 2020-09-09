@@ -10,3 +10,12 @@ Branch: Computer Science and Communication Engineering
 Organisation: KIIT School of Computer Engineering
 ```
 
+# Structure for adding Tasks
+```
+{
+    "TaskName": "name of the task",
+    "TaskDescription": "task description",
+    "creator": "name of the creator",
+    "duration": "time duration in minutes(integer value)"
+}
+```
