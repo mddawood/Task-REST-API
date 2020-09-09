@@ -7,7 +7,7 @@ require('dotenv/config');
 app.use(bodyParser.json());
 
 //Import Routes
-const addRoutes = require('./routes/add');
+const addRoutes = require('./routes/main');
 
 app.use(addRoutes);
 
